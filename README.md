@@ -8,6 +8,6 @@ Using "vagrant up" you wil automaticly deploy
 - 03x Kubernetes Worker nodes sous _CentOS 8_ 
 
 
-# Automatic joining of workers in the cluster
+# Automatic joining workers in the cluster
 ** NFS ** server present on the _Master_, the junction token will be directly accessible at worker level
 therefore at the end of the deployment your cluster will be operational with the worker _ready_
