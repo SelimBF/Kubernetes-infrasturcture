@@ -1,5 +1,5 @@
 # requirements 
-installation de [vagrant](https://www.vagrantup.com) et [virtualbox](https://www.virtualbox.org)
+installation of [vagrant](https://www.vagrantup.com) et [virtualbox](https://www.virtualbox.org)
 
 # Kubernetes Cluster Creation
 
