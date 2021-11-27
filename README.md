@@ -1,5 +1,5 @@
 # requirements 
-installation of [vagrant](https://www.vagrantup.com) et [virtualbox](https://www.virtualbox.org)
+installation de [vagrant](https://www.vagrantup.com) & [virtualbox](https://www.virtualbox.org)
 
 # Kubernetes Cluster Creation
 
@@ -9,5 +9,5 @@ Using "vagrant up" you wil automaticly deploy
 
 
 # Automatic joining of workers in the cluster
-** NFS ** server present on the _Master_, the junction token will be directly accessible at worker level :)
+** NFS ** server present on the _Master_, the junction token will be directly accessible at worker level
 therefore at the end of the deployment your cluster will be operational with the worker _ready_
